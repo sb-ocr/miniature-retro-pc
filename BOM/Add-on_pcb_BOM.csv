@@ -1,0 +1,14 @@
+Qty,Parts,Value,Device,Package,Digikey #,Description
+2,J4,5034800800,5034800800,MOLEX_5034800800,WM1388CT-ND,"8 Position FFC, FPC Connector Contacts, Top and Bottom 0.020 (0.50mm) Surface Mount, Right Angle"
+1,LP,5151005F,5151005F,5151005F,350-3465-ND,"Light Pipe 2 Wide Clear Rigid Board Mount, Press Fit, Right Angle"
+2,"R3, R4",5K1,R-US_CHIP-0603(1608-METRIC),RESC1608X60,311-5.10KHRCT-ND,"5.1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric)"
+2,"R1, R2",68,R-US_CHIP-0603(1608-METRIC),RESC1608X60,311-68.0HRCT-ND,"68 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric)"
+1,S1,EVQ-P7A01P,EVQ-P7A01P,SW_EVQ-P7A01P,P16763CT-ND,"Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle"
+1,D2,LED_AMBER,CHIP-FLAT-G_1206,LEDC3216X75N_FLAT-A,732-4988-1-ND,Amber 605nm LED Indication - Discrete 2V 1206 (3216 Metric)
+1,D1,LED_GREEN,CHIP-FLAT-G_1206,LEDC3216X75N_FLAT-G,732-4993-1-ND,Green 570nm LED Indication - Discrete 2V 1206 (3216 Metric)
+1,J3,MSD-4-A,MSD-4-A,MSD4A,2223-MSD-4-ACT-ND,"9 (8 + 1) Position Card Connector microSD™ Surface Mount, Right Angle Gold"
+1,JP3,PINHD-1X2/90,PINHD-1X2/90,1X02/90,2057-PH1RA-02-UA-ND,"Connector Header Through Hole, Right Angle 2 position 0.100"" (2.54mm)"
+1,JP2,PINHD-1X3/90,PINHD-1X3/90,1X03/90,2057-PH1RA-03-UA-ND,"Connector Header Through Hole, Right Angle 3 position 0.100"" (2.54mm)"
+1,J2,PPTC202LFBN-RC,PPTC202LFBN-RC,SULLINS_PPTC202LFBN-RC,S6104-ND,"40 Position Header Connector 0.100"" (2.54mm) Through Hole Tin"
+1,J1,USB4125-GF-A_REVA2,USB4125-GF-A_REVA2,GCT_USB4125-GF-A_REVA2,2073-USB4125-GF-ACT-ND,USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) 
+1,FPC Cable,,,,2073-05-08-A-0050-A-4-06-4-T-ND,"8 Position FFC, FPC Cable 0.020"" (0.50mm) 1.969"" (50.00mm)"
