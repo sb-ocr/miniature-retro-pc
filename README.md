@@ -6,7 +6,7 @@ Watch the build video ↓
 
 Inspired by the retro machines I grew up with during the 90s and early 00s, I decided to design and build a working tiny miniature PC to bring a little of that nostalgia to my desk. In this project, I'll take you through the entire process, from design to assembly, sharing my experience along the way.
 
-Build instructions → Instructables (coming soon)
+Build instructions → [Instructables](https://bit.ly/3WVpQsw) 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
