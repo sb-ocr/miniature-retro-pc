@@ -10,5 +10,6 @@ Qty,Parts,Value,Device,Package,Digikey #,Description
 1,JP3,PINHD-1X2/90,PINHD-1X2/90,1X02/90,2057-PH1RA-02-UA-ND,"Connector Header Through Hole, Right Angle 2 position 0.100"" (2.54mm)"
 1,JP2,PINHD-1X3/90,PINHD-1X3/90,1X03/90,2057-PH1RA-03-UA-ND,"Connector Header Through Hole, Right Angle 3 position 0.100"" (2.54mm)"
 1,J2,PPTC202LFBN-RC,PPTC202LFBN-RC,SULLINS_PPTC202LFBN-RC,S6104-ND,"40 Position Header Connector 0.100"" (2.54mm) Through Hole Tin"
-1,J1,USB4125-GF-A_REVA2,USB4125-GF-A_REVA2,GCT_USB4125-GF-A_REVA2,2073-USB4125-GF-ACT-ND,USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) 
+1,J1,USB4125-GF-A_REVA2,USB4125-GF-A_REVA2,GCT_USB4125-GF-A_REVA2,2073-USB4125-GF-ACT-ND,USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy)
 1,FPC Cable,,,,2073-05-08-A-0050-A-4-06-4-T-ND,"8 Position FFC, FPC Cable 0.020"" (0.50mm) 1.969"" (50.00mm)"
+2,Speaker,4 Ohms,Speaker,OWS-142550TA-4,3949-OWS-142550TA-4-ND,4 Ohms IoT Speaker Speaker 2 W 980 Hz ~ 20 kHz Top Rectangular
